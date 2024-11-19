@@ -1,8 +1,8 @@
 Advanced Neural Network Architecture For Brain Lesion Detection 
 
-This is a project on brain tumor detection and i have applied Deep neural networks machine
-learning models in this project mainly vgg16 , inceptionv3 and xception, and 
-i have compared them in this project.
+Developed and implemented a robust solution for brain tumor detection using advanced Deep Neural Network architectures. Leveraged pre-trained models including VGG16, InceptionV3, and Xception to identify and classify brain lesions from medical imaging data. 
+Conducted a comprehensive performance comparison of these architectures based on accuracy, computational efficiency, and robustness. 
+Demonstrated proficiency in deep learning frameworks, data preprocessing, and model optimization, showcasing strong analytical and problem-solving skills in applying machine learning to healthcare.
 
 Dataset 
 
